@@ -108,6 +108,8 @@ cat {file_name}; displays content of {file_name}
 
 Create a new file
 touch {file_name}; creates a new file
+
+<img width="703" alt="Screenshot 2023-03-28 at 17 33 32" src="https://user-images.githubusercontent.com/67044030/228943968-79556d65-a8f0-4832-ac8e-13c517ecbd28.png">
  
 
 File {filename}; shows the type of document
