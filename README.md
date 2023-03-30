@@ -93,6 +93,8 @@ rm -r directory_name; removes a directory
 
 To check uptime
 uptime; to check uptime of the server.
+
+<img width="653" alt="Screenshot 2023-03-28 at 17 17 07" src="https://user-images.githubusercontent.com/67044030/228943350-5ca8ac48-b278-4cd5-8f7a-b47e6ece1f33.png">
  
 
 Copy file content
