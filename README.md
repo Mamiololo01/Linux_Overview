@@ -186,6 +186,8 @@ df -h; shows free and used space on mounted system
 <img width="722" alt="Screenshot 2023-03-28 at 18 27 36" src="https://user-images.githubusercontent.com/67044030/228937818-ca73ac09-b70b-4570-bdd9-408161887426.png">
  
 df -ah; shows disk usage for all files and directory.
+
+<img width="632" alt="Screenshot 2023-03-28 at 18 28 36" src="https://user-images.githubusercontent.com/67044030/228938039-3eb265f0-510c-47de-b1b8-05cc557d8c0b.png">
  
 
 SSH
