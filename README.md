@@ -134,6 +134,8 @@ id; displays active users
 
 Shows system logins
 last; shows lists of all active system logins
+
+<img width="841" alt="Screenshot 2023-03-28 at 17 40 26" src="https://user-images.githubusercontent.com/67044030/228944476-43406ffe-da97-49be-9df0-a8561001de06.png">
  
 
 Current logon
