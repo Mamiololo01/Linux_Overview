@@ -51,7 +51,7 @@ ls -ah;
 
 <img width="921" alt="Screenshot 2023-03-28 at 16 53 50" src="https://user-images.githubusercontent.com/67044030/228941547-d18a2986-ae18-4ce1-a266-d254270acfc9.png">
  
-
+<img width="831" alt="Screenshot 2023-03-28 at 16 53 31" src="https://user-images.githubusercontent.com/67044030/228945097-4b822fc5-2dd2-4950-95a4-b31f46165ed8.png">
  
 
 Controls the hostname
