@@ -27,6 +27,7 @@ Iptraf; shows a GUI page for ethernet traffic
  
 
 Iptraf -ng nc; captures traffic
+<img width="661" alt="Screenshot 2023-03-28 at 16 44 23" src="https://user-images.githubusercontent.com/67044030/228940795-bcb98800-728b-4786-9f62-691dba8cb683.png">
  
 
 Controlling Network manager
