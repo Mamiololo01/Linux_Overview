@@ -151,6 +151,8 @@ fg; brings up the most recently suspended jobs to the foreground.
 
 Shows kernel info
 Uname -a; displays kernel release info
+
+<img width="1008" alt="Screenshot 2023-03-28 at 18 11 40" src="https://user-images.githubusercontent.com/67044030/228936627-9ae0c7df-7b31-4b67-ae2d-15a6c874425f.png">
  
 
 Display current date
