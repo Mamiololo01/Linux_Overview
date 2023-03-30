@@ -6,6 +6,8 @@ Basic Linux commands PART 1
 Check Free CPU memory
 Free; This shows the used, total and free memory.
 
+<img width="963" alt="Screenshot 2023-03-28 at 16 37 15" src="https://user-images.githubusercontent.com/67044030/228945716-d5852a87-a4b7-47eb-a1d4-2b923f721f5c.png">
+
 
 
 Check current processes
