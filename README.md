@@ -128,6 +128,8 @@ tail {file_name}; shows the last 10 lines in the file.
 
 Displays active users
 id; displays active users 
+
+<img width="575" alt="Screenshot 2023-03-28 at 17 39 17" src="https://user-images.githubusercontent.com/67044030/228944193-0b2af4c1-7b95-4bed-b968-4bfd203d64be.png">
  
 
 Shows system logins
