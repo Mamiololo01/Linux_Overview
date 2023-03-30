@@ -157,6 +157,8 @@ Uname -a; displays kernel release info
 
 Display current date
 date; shows current time.
+
+<img width="703" alt="Screenshot 2023-03-28 at 18 14 52" src="https://user-images.githubusercontent.com/67044030/228937025-b0a41d90-d478-4f71-8958-d96e01f07a3e.png">
  
 
 Displays IP address
