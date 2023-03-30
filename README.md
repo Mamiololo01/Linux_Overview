@@ -13,6 +13,8 @@ Free; This shows the used, total and free memory.
 Check current processes
 Ps; shows a snapshot of current processes.
 
+<img width="606" alt="Screenshot 2023-03-30 at 20 42 35" src="https://user-images.githubusercontent.com/67044030/228947081-0063274a-b30b-4f14-9f3c-d0b7b0b70845.png">
+
  
 
 
