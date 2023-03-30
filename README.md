@@ -163,6 +163,8 @@ date; shows current time.
 
 Displays IP address
 hostname -I; shows IP address
+
+<img width="583" alt="Screenshot 2023-03-28 at 18 16 58" src="https://user-images.githubusercontent.com/67044030/228937260-84aacda2-949e-4b4e-87e3-964ed9301adb.png">
  
 
 List IP address
