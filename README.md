@@ -16,6 +16,9 @@ Ps; shows a snapshot of current processes.
 
 Check active Linux processes
 top; displays current Linux processes.
+
+<img width="971" alt="Screenshot 2023-03-28 at 16 57 41" src="https://user-images.githubusercontent.com/67044030/228941702-f44a0df7-0fdc-42ec-82de-dcfb76c116d4.png">
+
 htop: gives graphical representation.
  
 
