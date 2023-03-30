@@ -85,6 +85,8 @@ Remove files and directory
 rm filename ; removes a file
 rm -r directory_name; removes a directory
 
+<img width="782" alt="Screenshot 2023-03-28 at 17 15 35" src="https://user-images.githubusercontent.com/67044030/228943147-b06ec411-e4bc-4126-9715-ba7c8229c19e.png">
+
 
 <img width="649" alt="Screenshot 2023-03-28 at 17 42 45" src="https://user-images.githubusercontent.com/67044030/228939510-4361f948-d996-4686-a0b2-dadf316fc648.png">
  
