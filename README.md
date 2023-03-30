@@ -22,6 +22,8 @@ htop: gives graphical representation.
 
 IP traffic monitor
 Iptraf; shows a GUI page for ethernet traffic 
+
+<img width="998" alt="Screenshot 2023-03-28 at 16 43 51" src="https://user-images.githubusercontent.com/67044030/228940577-50cca05a-548f-4f10-836b-381202398e46.png">
  
 
 Iptraf -ng nc; captures traffic
