@@ -32,6 +32,8 @@ Iptraf -ng nc; captures traffic
 
 Controlling Network manager
 Nmcli; shows all network interface
+
+<img width="772" alt="Screenshot 2023-03-28 at 16 47 01" src="https://user-images.githubusercontent.com/67044030/228940976-cb5ff551-2c06-47be-ab06-d570e686138a.png">
  
 
 List files and directories
