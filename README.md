@@ -55,6 +55,8 @@ ls -ah;
 
 Controls the hostname
 hostnamectl; displays all info on controlling the hostname
+
+<img width="709" alt="Screenshot 2023-03-28 at 17 00 46" src="https://user-images.githubusercontent.com/67044030/228941962-1a741118-f70f-4ae6-9579-eb89d7865ed5.png">
  
 
 Netstat
