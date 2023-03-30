@@ -44,6 +44,8 @@ ls-al;
 ls -ah;
 
 <img width="824" alt="Screenshot 2023-03-28 at 16 53 14" src="https://user-images.githubusercontent.com/67044030/228941274-c7c5f268-ba2b-4167-994c-8907b3beab37.png">
+
+<img width="921" alt="Screenshot 2023-03-28 at 16 53 50" src="https://user-images.githubusercontent.com/67044030/228941547-d18a2986-ae18-4ce1-a266-d254270acfc9.png">
  
 
  
