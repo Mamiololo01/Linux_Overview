@@ -250,7 +250,8 @@ Ps aux | grep {service_name}; Searches for a pattern in each file.
 
 Disk
 Mount; Checking existing mount
- 
+
+<img width="867" alt="Screenshot 2023-03-28 at 19 44 39" src="https://user-images.githubusercontent.com/67044030/228939159-487ed476-8948-4554-bb2c-2a0f216c0c76.png">
 
 Ls/mnt
 
