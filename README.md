@@ -1,9 +1,8 @@
 # Linux_Overview
 Overview of Linux commands.
 
-Basic Linux commands PART 1
-
 Check Free CPU memory
+
 Free; This shows the used, total and free memory.
 
 <img width="963" alt="Screenshot 2023-03-28 at 16 37 15" src="https://user-images.githubusercontent.com/67044030/228945716-d5852a87-a4b7-47eb-a1d4-2b923f721f5c.png">
@@ -11,6 +10,7 @@ Free; This shows the used, total and free memory.
 
 
 Check current processes
+
 Ps; shows a snapshot of current processes.
 
 <img width="606" alt="Screenshot 2023-03-30 at 20 42 35" src="https://user-images.githubusercontent.com/67044030/228947081-0063274a-b30b-4f14-9f3c-d0b7b0b70845.png">
@@ -19,6 +19,7 @@ Ps; shows a snapshot of current processes.
 
 
 Check active Linux processes
+
 top; displays current Linux processes.
 
 <img width="971" alt="Screenshot 2023-03-28 at 16 57 41" src="https://user-images.githubusercontent.com/67044030/228941702-f44a0df7-0fdc-42ec-82de-dcfb76c116d4.png">
@@ -29,6 +30,7 @@ htop: gives graphical representation.
 
 
 IP traffic monitor
+
 Iptraf; shows a GUI page for ethernet traffic 
 
 <img width="998" alt="Screenshot 2023-03-28 at 16 43 51" src="https://user-images.githubusercontent.com/67044030/228940577-50cca05a-548f-4f10-836b-381202398e46.png">
@@ -122,28 +124,35 @@ File {filename}; shows the type of document
 
 Removes files or directory
 rm -I {file_name}; ask for permission before removing a file
+
 rm -rf {file_name}; forcefully removes a file or directory
+
 rm {file_name}; removes only a file, not the file_name.
 
 More
+
 more is a filter for paging through text one screenful at a time. This version is especially primitive. Users should realize that less (1) provides more(1) emulation plus extensive enhancements.
 
 head {file_name}; shows the first 10 lines in the file.
+
 tail {file_name}; shows the last 10 lines in the file.
 
 Displays active users
+
 id; displays active users 
 
 <img width="575" alt="Screenshot 2023-03-28 at 17 39 17" src="https://user-images.githubusercontent.com/67044030/228944193-0b2af4c1-7b95-4bed-b968-4bfd203d64be.png">
  
 
 Shows system logins
+
 last; shows lists of all active system logins
 
 <img width="841" alt="Screenshot 2023-03-28 at 17 40 26" src="https://user-images.githubusercontent.com/67044030/228944476-43406ffe-da97-49be-9df0-a8561001de06.png">
  
 
 Current logon
+
 who; shows who is currently logged in.
  
 
@@ -153,6 +162,7 @@ groupadd {group_name}; adds a new group.
  
 
 Add a new user
+
 adduser {user_name}; creates a new user.
 
 <img width="853" alt="Screenshot 2023-03-28 at 17 51 15" src="https://user-images.githubusercontent.com/67044030/228935887-21399cfb-b23f-407a-9c81-807aadafecee.png">
@@ -170,45 +180,55 @@ usermod {user_name}; modifies an active user.
 
 
 Change directory group
+
 chgrp {group_name} {directory_name}; changes the directory group.
 
 Install package manager
+
 sudo apt install {package_manager};  installs package manager.
  
 
 Terminate a Linux process
+
 Kill {PID}; Kills a Linux process under a given ID.
 
 Terminate all processes
+
 Kill all {process_name}; Terminates all processes with the labelled ID
 
 Resume stopped jobs
+
 bg; list and resume stopped jobs in the background
  
 
 Resume recently suspended jobs
+
 fg; brings up the most recently suspended jobs to the foreground.
  
 
 Shows kernel info
+
 Uname -a; displays kernel release info
 
 <img width="1008" alt="Screenshot 2023-03-28 at 18 11 40" src="https://user-images.githubusercontent.com/67044030/228936627-9ae0c7df-7b31-4b67-ae2d-15a6c874425f.png">
  
 
 Display current date
+
 date; shows current time.
 
 <img width="703" alt="Screenshot 2023-03-28 at 18 14 52" src="https://user-images.githubusercontent.com/67044030/228937025-b0a41d90-d478-4f71-8958-d96e01f07a3e.png">
  
 
 Displays IP address
+
 hostname -I; shows IP address
 
 <img width="583" alt="Screenshot 2023-03-28 at 18 16 58" src="https://user-images.githubusercontent.com/67044030/228937260-84aacda2-949e-4b4e-87e3-964ed9301adb.png">
  
 
 List IP address
+
 Ip add show; list all IP address and network interfaces
 
 <img width="975" alt="Screenshot 2023-03-28 at 18 18 04" src="https://user-images.githubusercontent.com/67044030/228937526-9aefcc9c-eba1-4027-b75d-6b44787de1d3.png">
@@ -237,64 +257,85 @@ ssh -p {port} user@host; connect to host using a specific port number
 
 File ownership
 Chmod 777 {file_name}; assigns read, write and execute permissions to everyone
+
 Chmod 755 {file_name}; assigns read, write, and execute to owners, read and execute to group and others.
+
 Chmod 766 {file_name}; assigns full ownership to owner, read and right permission to group and others.
+
 Chmod 600 {file_name};  full permission to owner, no access to group and others.
+
 Chown {user_name}:{group} {file_name}; changes the owner and group membership of a file.
 
 DNS information
+
 Dig; shows dns information about a domain
 
 <img width="718" alt="Screenshot 2023-03-28 at 19 03 11" src="https://user-images.githubusercontent.com/67044030/228938290-054031dc-d2da-4297-9511-679154385b10.png">
  
 
 NSLOOKUP
+
 nslookup {domain_name}; displays info about internet domain.
 
 
 Download file from internet.
+
 wget {filename/web address}; downloads the file or the document from webpage
 
 <img width="828" alt="Screenshot 2023-03-28 at 19 09 22" src="https://user-images.githubusercontent.com/67044030/228938619-be208445-9ba0-4248-a075-09056cbb3cc9.png">
  
 
 Remote file save
+
 Curl -o {file_name}; saves a remote file to your system
 
 Lock account
+
 Usermod -L {account_name}; locks an account.
 
-Admin user add.
+Admin user add
+
 sudo useradd -m {user_name}; adds users as admin
 
 Set password
+
 Sudo password {user_name}; sets user password.
 
 Query system
+
 Journalctl; queries the system 
 
 <img width="843" alt="Screenshot 2023-03-28 at 19 15 01" src="https://user-images.githubusercontent.com/67044030/228938927-1b9763f0-c21c-4254-8c21-765edc16545b.png">
  
 
 SYSTEMCTL
+
 Controls the systemd system and service manager
+
 Manage service
+
 Service {service_name} status
+
 Systemctl status {service_name}
+
 Systemctl status httpd.service; checks status of httpd service
+
 Systemctl start httpd. service; starts httpd service
+
 Systemctl restart httpd. service; restarts httpd service
+
 Systemctl status apache2; checks status of apache service
 
 Search files
+
 Ps aux | grep {service_name}; Searches for a pattern in each file.
 
 Disk
+
 Mount; Checking existing mount
 
 <img width="867" alt="Screenshot 2023-03-28 at 19 44 39" src="https://user-images.githubusercontent.com/67044030/228939159-487ed476-8948-4554-bb2c-2a0f216c0c76.png">
 
-Ls/mnt
 
 
 
