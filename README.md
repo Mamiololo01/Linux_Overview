@@ -71,6 +71,8 @@ netstat
 
 Make directory
 mkdir; creates a directory
+
+<img width="705" alt="Screenshot 2023-03-28 at 17 09 15" src="https://user-images.githubusercontent.com/67044030/228942505-3ea84ed6-6176-4c15-86e6-6c7100ce66bb.png">
  
 
 Check present working directory
