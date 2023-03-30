@@ -213,6 +213,8 @@ nslookup {domain_name}; displays info about internet domain.
 
 Download file from internet.
 wget {filename/web address}; downloads the file or the document from webpage
+
+<img width="828" alt="Screenshot 2023-03-28 at 19 09 22" src="https://user-images.githubusercontent.com/67044030/228938619-be208445-9ba0-4248-a075-09056cbb3cc9.png">
  
 
 Remote file save
