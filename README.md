@@ -120,6 +120,8 @@ adduser {user_name}; creates a new user.
 
 Delete user
 userdel {user_name}; deletes an active user.
+
+<img width="729" alt="Screenshot 2023-03-28 at 17 55 09" src="https://user-images.githubusercontent.com/67044030/228936244-1948a867-2e9a-4bdf-8e2d-d1d3507fcbb1.png">
  
 
 Modify user
