@@ -231,6 +231,8 @@ Sudo password {user_name}; sets user password.
 
 Query system
 Journalctl; queries the system 
+
+<img width="843" alt="Screenshot 2023-03-28 at 19 15 01" src="https://user-images.githubusercontent.com/67044030/228938927-1b9763f0-c21c-4254-8c21-765edc16545b.png">
  
 
 SYSTEMCTL
