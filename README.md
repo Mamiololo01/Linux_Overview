@@ -100,6 +100,8 @@ uptime; to check uptime of the server.
 Copy file content
  cp {filename1} {filename2}; copies the content of one file to another
  
+ <img width="867" alt="Screenshot 2023-03-28 at 17 22 48" src="https://user-images.githubusercontent.com/67044030/228943702-ac8e7510-a3d7-45f9-a092-543d091980fa.png">
+ 
 
 Displays content of file
 cat {file_name}; displays content of {file_name}
