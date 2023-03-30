@@ -63,6 +63,8 @@ Netstat
 Check listening ports
 netstat -tulpn; shows all active ports on ‘’listening’’ mode
 
+<img width="874" alt="Screenshot 2023-03-28 at 17 04 40" src="https://user-images.githubusercontent.com/67044030/228942188-aedac0de-230a-4d7b-942c-14174053dd64.png">
+
 Check all open ports
 netstat
  
