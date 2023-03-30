@@ -169,6 +169,8 @@ hostname -I; shows IP address
 
 List IP address
 Ip add show; list all IP address and network interfaces
+
+<img width="975" alt="Screenshot 2023-03-28 at 18 18 04" src="https://user-images.githubusercontent.com/67044030/228937526-9aefcc9c-eba1-4027-b75d-6b44787de1d3.png">
  
 
 Add IP address to interface.
