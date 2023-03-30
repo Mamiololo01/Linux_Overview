@@ -113,6 +113,9 @@ groupadd {group_name}; adds a new group.
 
 Add a new user
 adduser {user_name}; creates a new user.
+
+<img width="853" alt="Screenshot 2023-03-28 at 17 51 15" src="https://user-images.githubusercontent.com/67044030/228935887-21399cfb-b23f-407a-9c81-807aadafecee.png">
+
  
 
 Delete user
