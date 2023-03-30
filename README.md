@@ -42,6 +42,8 @@ ls; list all files and directories
 ls -a; list all hidden files
 ls-al;
 ls -ah;
+
+<img width="824" alt="Screenshot 2023-03-28 at 16 53 14" src="https://user-images.githubusercontent.com/67044030/228941274-c7c5f268-ba2b-4167-994c-8907b3beab37.png">
  
 
  
