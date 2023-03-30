@@ -203,13 +203,15 @@ Chown {user_name}:{group} {file_name}; changes the owner and group membership of
 
 DNS information
 Dig; shows dns information about a domain
+
+<img width="718" alt="Screenshot 2023-03-28 at 19 03 11" src="https://user-images.githubusercontent.com/67044030/228938290-054031dc-d2da-4297-9511-679154385b10.png">
  
 
 NSLOOKUP
 nslookup {domain_name}; displays info about internet domain.
 
 
-Download file from internet
+Download file from internet.
 wget {filename/web address}; downloads the file or the document from webpage
  
 
