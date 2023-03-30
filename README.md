@@ -77,6 +77,8 @@ mkdir; creates a directory
 
 Check present working directory
 pwd; checks the current working directory
+
+<img width="697" alt="Screenshot 2023-03-28 at 17 10 52" src="https://user-images.githubusercontent.com/67044030/228942962-27890aba-615a-47e8-80c7-181d032edb88.png">
  
 
 Remove files and directory
